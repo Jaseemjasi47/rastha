@@ -1,4 +1,4 @@
-import { motion, useScroll } from 'framer-motion';
+import { motion } from 'framer-motion';
 // import { useRef } from 'react';
 import SEO from '../components/SEO';
 import Button from '../components/Button';

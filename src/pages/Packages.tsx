@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import SEO from '../components/SEO';
 import SectionWrapper from '../components/SectionWrapper';
-import TravelCard from '../components/TravelCard';
+// import TravelCard from '../components/TravelCard';
 import { Check } from 'lucide-react';
 
 const Packages = () => {
